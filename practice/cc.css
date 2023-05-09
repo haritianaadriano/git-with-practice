@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.une{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+.deux{
+
+}
+.trois,ul,li,a{
+  display: flex ;
+  justify-content: space-between;
+  flex-direction: row;
+  gap: 2cm;
+}
+
+ul,li,a{
+    text-decoration: none;
+}
